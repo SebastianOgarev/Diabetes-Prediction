@@ -74,8 +74,4 @@ Potential areas for enhancement:
 
 ## Author
 
-[Your Name]
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+Vsevolod Ogarev
