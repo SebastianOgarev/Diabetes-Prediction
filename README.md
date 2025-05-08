@@ -1,6 +1,6 @@
 # Diabetes Prediction using Machine Learning
 
-This project implements a supervised learning model to predict diabetes using the Pima Indians Diabetes Dataset. The project includes two implementations:
+This is the final project for our Algorithms class. It implements a supervised learning model to predict diabetes using the Pima Indians Diabetes Dataset (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) . The project includes two implementations:
 1. A basic implementation using Logistic Regression
 2. An enhanced implementation with multiple models and advanced features
 
